@@ -1,0 +1,20 @@
+
+
+development:
+  adapter: postgresql
+  host: localhost
+  database: tscope_dev
+  username: posgres
+  password: 123
+
+
+test:
+
+  adapter: postgresql
+  host: localhost
+  database: tscope_test
+  username: posgres
+  password: 123
+
+
+
